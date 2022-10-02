@@ -1,8 +1,7 @@
 {
-  "name": "STEAM-influencers",
+  "name": "steam-influencers",
   "version": "0.0.1",
-  "description": "Celebrating people who are sharing and working into STEAM— and inspires the
-  And inspiring the next generation of STEAM people with inclusion and equity.",
+  "description": "Celebrating people who are sharing and working into STEAM— and inspires the And inspiring the next generation of STEAM people with inclusion and equity.",
   "main": "index.js",
   "scripts": {
     "watch:sass": "sass --watch ./src/_sass:src/_css",
