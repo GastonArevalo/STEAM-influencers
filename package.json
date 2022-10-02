@@ -1,7 +1,8 @@
 {
   "name": "STEAM-influencers",
   "version": "0.0.1",
-  "description": "",
+  "description": "Celebrating people who are sharing and working into STEAM— and inspires the
+  And inspiring the next generation of STEAM people with inclusion and equity.",
   "main": "index.js",
   "scripts": {
     "watch:sass": "sass --watch ./src/_sass:src/_css",
@@ -15,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+"
+    "url": "git+https://github.com/GastonArevalo/STEAM-influencers"
   },
   "keywords": [
     "jamstack"
@@ -23,9 +24,9 @@
   "author": "whitep4nth3r",
   "license": "MIT",
   "bugs": {
-    "url": "/issues"
+    "url": "https://github.com/GastonArevalo/STEAM-influencers/issues"
   },
-  "homepage": "#readme",
+  "homepage": "https://github.com/GastonArevalo/STEAM-influencers#readme",
   "dependencies": {
     "@11ty/eleventy": "^1.0.0",
     "@11ty/eleventy-img": "^1.1.0",

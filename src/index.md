@@ -14,8 +14,8 @@ eleventyComputed:
     <h1 class="hero__contentHeadline">Celebrating people who are sharing and working into STEAM</h1>
     <p  class="hero__contentByline">And inspiring the next generation of STEAM people with inclusion and equity.</p>
     <div class="hero__buttons">
-      <a href="https://github.com/#readme" target="_blank" class="hero__button">Add your profile</a>
-      <!-- <a href="https://jamstack.org/discord" target="_blank" class="hero__button hero__button--alt">Join the discord</a> -->
+      <a href="https://github.com/GastonArevalo/STEAM-influencers#readme" target="_blank" class="hero__button">Add your profile</a>
+      <!-- <a href="https://2022.spaceappschallenge.org/challenges/2022-challenges/steam/teams/cloudhack-51/project" target="_blank" class="hero__button hero__button--alt"></a> -->
     </div>
   </div>
 </section>
