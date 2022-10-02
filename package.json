@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GastonArevalo/STEAM-influencers"
+    "url": "git+"
   },
   "keywords": [
     "jamstack"
@@ -24,9 +24,9 @@
   "author": "whitep4nth3r",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/GastonArevalo/STEAM-influencers/issues"
+    "url": "/issues"
   },
-  "homepage": "https://github.com/GastonArevalo/STEAM-influencers#readme",
+  "homepage": "#readme",
   "dependencies": {
     "@11ty/eleventy": "^1.0.0",
     "@11ty/eleventy-img": "^1.1.0",
