@@ -1,0 +1,35 @@
+{
+  "name": "STEAM-influencers",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch:sass": "sass --watch ./src/_sass:src/_css",
+    "build:sass": "sass ./src/_sass:src/_css",
+    "watch:eleventy": "npx @11ty/eleventy --serve",
+    "build:eleventy": "npx @11ty/eleventy",
+    "dev": "npm-run-all build:sass --parallel watch:*",
+    "build": "npm-run-all build:*",
+    "debug": "DEBUG=Eleventy* npx @11ty/eleventy --serve",
+    "debughard": "DEBUG=Dev:Eleventy* npx @11ty/eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+"
+  },
+  "keywords": [
+    "jamstack"
+  ],
+  "author": "whitep4nth3r",
+  "license": "MIT",
+  "bugs": {
+    "url": "/issues"
+  },
+  "homepage": "#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^1.0.0",
+    "@11ty/eleventy-img": "^1.1.0",
+    "npm-run-all": "^4.1.5",
+    "sass": "^1.49.8"
+  }
+}

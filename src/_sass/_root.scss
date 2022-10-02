@@ -1,0 +1,39 @@
+
+
+:root {
+  --color-grey: #121a39;
+  --color-pink: #FC3D21;
+  --color-orange: #fc814a;
+  --color-blue: #0B3D91;
+  --color-turquoise: #00bfad;
+  --gradient-pink: linear-gradient(
+    90deg,
+    rgba(252,61,33,1) 0%,
+    rgba(252,91,33,1) 80%
+    );
+  --gradient-blue: linear-gradient(
+    90deg,
+    rgba(11,61,145,1) 0%,
+    rgba(21,106,250,1) 80%
+  );
+  --border-radius-base: 1rem;
+  --font-family-cursive: "Bungee", cursive;
+  --font-family-serif: "Roboto Slab", serif;
+  --font-family-bold: "Roboto Slab Bold", serif;
+  --font-weight-normal: 300;
+  --font-weight-bold: 800;
+  --color-hero-text: #ffffff;
+  --color-text-fg: var(--color-grey);
+  --color-text-bg: #fafafa;
+  --color-page-bg: var(--color-grey);
+  --color-button-bg: #FC3D21;
+  --color-button-bg-alt: #0B3D91;
+  --page-max-width: 1200px;
+}
+
+
+@media (prefers-color-scheme: light) {
+}
+
+@media (prefers-reduced-motion: reduce) {
+}
